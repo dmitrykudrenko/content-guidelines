@@ -1,54 +1,54 @@
-# Content Guidelines — Навігація
+# Content Guidelines — Navigation
 
-Структурований guideline для роботи з контентом у Stripo / Yespo / Claspo.
+Structured guideline for content creation at Stripo / Yespo / Claspo.
 
-## Логіка читання
+## Reading Logic
 
-Файли організовані від "чому" до "як":
+Files are organized from "why" to "how":
 
 ```
-ЧОМУ ми створюємо контент?
+WHY do we create content?
   01 Mission & Vision → 02 Valuable Information
   
-ЩО ми створюємо?
+WHAT do we create?
   03 Narratives → 04 Content Types & Formats
   
-ЯК ми це робимо?
+HOW do we do it?
   05 Quality → 06 Writing Process → 07 Principles → 08 Evolution
   
-ХТО і з якою метою?
+WHO and with what purpose?
   09 Team & Roles → 10 SEO → 11 Goals
   
-ДОВІДКОВО
+REFERENCE
   12 Systematization Types
 ```
 
-## Файли
+## Files
 
-| # | Файл | Що всередині |
-|---|------|-------------|
-| 01 | [Mission & Vision](01-mission-and-vision.md) | Місія, візія, визначення цінної інформації |
-| 02 | [Valuable Information](02-valuable-information.md) | 3 типи AVI, рівні VI (0-3), порядок публікації |
-| 03 | [Narratives](03-narratives.md) | Фреймворк наративів, 8 типів, правила |
-| 04 | [Content Types & Formats](04-content-types-and-formats.md) | Типи за департаментами, 24 формати (згруповані) |
-| 05 | [Content Quality](05-content-quality.md) | Ознаки якості (good + bad), quick-check |
-| 06 | [Writing Process](06-writing-process.md) | 11 кроків від brief до публікації |
-| 07 | [Creation Principles](07-creation-principles.md) | 5 принципів + баланс funnel (50/30/20) |
-| 08 | [Content Evolution](08-content-evolution.md) | 5 рівнів: Note → Article → Scaling → Product → eBook |
-| 09 | [Team & Roles](09-team-and-roles.md) | Структура команди, 9 ролей |
-| 10 | [SEO Strategy](10-seo-strategy.md) | Роль SEO, баланс SEO vs value |
-| 11 | [Content Goals](11-content-goals.md) | 8 метрик (потребують заповнення) |
-| 12 | [Systematization Types](12-systematization-types.md) | 5 характеристик + 10 типів систематизації |
+| # | File | What's inside |
+|---|------|--------------|
+| 01 | [Mission & Vision](01-mission-and-vision.md) | Mission, vision, definition of valuable information |
+| 02 | [Valuable Information](02-valuable-information.md) | 3 types of AVI, VI levels (0–3), publication order |
+| 03 | [Narratives](03-narratives.md) | Narrative framework, 8 types, rules |
+| 04 | [Content Types & Formats](04-content-types-and-formats.md) | Types by department, 24 formats (grouped) |
+| 05 | [Content Quality](05-content-quality.md) | Quality indicators (good + bad), quick-check |
+| 06 | [Writing Process](06-writing-process.md) | 11 steps from brief to publication |
+| 07 | [Creation Principles](07-creation-principles.md) | 5 principles + funnel balance (50/30/20) |
+| 08 | [Content Evolution](08-content-evolution.md) | 5 levels: Note → Article → Scaling → Product → eBook |
+| 09 | [Team & Roles](09-team-and-roles.md) | Team structure, 9 roles |
+| 10 | [SEO Strategy](10-seo-strategy.md) | Role of SEO, balancing SEO vs value |
+| 11 | [Content Goals](11-content-goals.md) | 8 metrics (need to be filled in) |
+| 12 | [Systematization Types](12-systematization-types.md) | 5 characteristics + 10 types of systematization |
 
-## Як працювати з цими файлами
+## How to Work with These Files
 
-- **Розширення** — кожен файл можна допрацьовувати окремо, не чіпаючи інші
-- **Перехресні посилання** — файли посилаються один на одного де є зв'язок
-- **TODO** — кожен файл має секцію TODO з конкретними наступними кроками
-- **Адаптація** — файли зараз universal; для кожного продукту можна додати окремий файл
+- **Expanding** — each file can be developed independently without affecting others
+- **Cross-references** — files link to each other where connections exist
+- **TODO** — each file has a TODO section with specific next steps
+- **Adaptation** — files are currently universal; product-specific files can be added separately
 
-## Статус адаптації під продукти
+## Product Adaptation Status
 
-- [ ] Stripo — не адаптовано
-- [ ] Yespo — не адаптовано
-- [ ] Claspo — не адаптовано
+- [ ] Stripo — not adapted
+- [ ] Yespo — not adapted
+- [ ] Claspo — not adapted

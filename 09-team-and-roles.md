@@ -1,27 +1,27 @@
 # Team & Roles
 
-> Статус: `DRAFT` — перенесено з оригінального документа
+> Status: `DRAFT` — transferred from original document
 
 ## CMO
 
 Mostly focused on KPIs: traffic, conversion, etc.
 
-> TODO: оновити опис відповідальностей
+> TODO: update responsibilities description
 
 ## Head of Content
 
 The primary responsibility is coordinating all specialists within the team to achieve the goals of the content strategy. This includes ensuring quality control in content creation and ensuring its alignment with the mission and vision.
 
-Keeping this guideline document in the actual state is also their responsibility.
+Keeping this guideline document up to date is also their responsibility.
 
 ## Lead Content Writer
 
 Responsible for drafts (others must be accurately rewritten by the Lead).
 
-## Ролі в команді
+## Team Roles
 
-| Роль | Відповідальність |
-|------|-----------------|
+| Role | Responsibility |
+|------|---------------|
 | **J. Writer** | Notes, Guest Posts (Rewriting) |
 | **SEO specialist** | Finds semantic core for the article |
 | **M. Writer** | Article, Guest Posts. Assigns tasks to designer for articles and Whitepapers |
@@ -36,7 +36,7 @@ Responsible for drafts (others must be accurately rewritten by the Lead).
 
 ## TODO
 
-- [ ] Оновити ролі під поточну структуру команди
-- [ ] Замінити ініціали на актуальні імена або узагальнити ролі
-- [ ] Додати RACI-матрицю для контент-процесів
-- [ ] Розділити ролі для Stripo / Yespo / Claspo якщо команди різні
+- [ ] Update roles to match the current team structure
+- [ ] Replace initials with actual names or generalize roles
+- [ ] Add a RACI matrix for content processes
+- [ ] Split roles for Stripo / Yespo / Claspo if teams are different

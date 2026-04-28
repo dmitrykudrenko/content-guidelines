@@ -1,13 +1,13 @@
 # Content Goals (Measurable)
 
-> Статус: `DRAFT` — перенесено з оригінального документа. Цілі ще не визначені конкретно.
+> Status: `DRAFT` — transferred from original document. Goals are not yet defined concretely.
 
-## Поточний статус
+## Current Status
 
 > "It's not defined. I would like to measure quality for each channel."
 > "It is challenging to find up-to-date and working indicators."
 
-## Перспективні метрики
+## Prospective Metrics
 
 1. Increase monthly blog traffic by **___**% within the next **___** months.
 2. Achieve a customer engagement rate of at least **10%** through comments, social shares, and interactions on blog posts.
@@ -22,7 +22,7 @@
 
 ## TODO
 
-- [ ] Заповнити конкретні цифри (___) для кожної метрики
-- [ ] Визначити метрики якості для кожного каналу окремо
-- [ ] Додати baseline (поточні показники) для відстеження прогресу
-- [ ] Прив'язати цілі до OKR компанії
+- [ ] Fill in specific numbers (___) for each metric
+- [ ] Define quality metrics for each channel separately
+- [ ] Add a baseline (current numbers) for tracking progress
+- [ ] Tie goals to company OKRs

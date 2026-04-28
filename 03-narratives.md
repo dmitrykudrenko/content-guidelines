@@ -1,42 +1,42 @@
 # Narratives
 
-> Статус: `DRAFT` — перенесено з оригінального документа
+> Status: `DRAFT` — transferred from original document
 
-## Що таке наратив
+## What is a Narrative
 
 The narrative is the story that ties all our content together. It makes the text interesting and coherent. Narratives have the power to shape our understanding of the world, influence our beliefs, and evoke emotional responses.
 
-Наративи — це ключові повідомлення бренду, які випливають із місії та візії компанії (→ [01-mission-and-vision.md](01-mission-and-vision.md)). Контент має бути послідовним у всіх каналах на основі цих наративів (→ Principle of Vision у [07-creation-principles.md](07-creation-principles.md)).
+Narratives are the brand's key messages that stem from the company's mission and vision (→ [01-mission-and-vision.md](01-mission-and-vision.md)). Content must be consistent across all channels based on these narratives (→ Principle of Vision in [07-creation-principles.md](07-creation-principles.md)).
 
-## Правила побудови наративів
+## Rules for Building Narratives
 
-Кожен наратив має:
+Each narrative must:
 
-- **Відповідати** value proposition продукту
-- **Адресувати** конкретний pain point клієнта
-- **Показувати** benefits та unique selling points
-- **Бути** чітким, лаконічним, резонувати з потребами цільової аудиторії
+- **Align** with the product's value proposition
+- **Address** a specific customer pain point
+- **Highlight** the benefits and unique selling points
+- **Be** clear, concise, and resonate with the target audience's needs and aspirations
 
-## Типи наративних фреймворків
+## Narrative Framework Types
 
-Нижче — шаблони наративів. Приклади наведені generic, бо конкретні наративи для Stripo/Yespo/Claspo потрібно визначити окремо.
+Below are narrative templates. Examples are generic — specific narratives for Stripo/Yespo/Claspo need to be defined separately.
 
-| Тип наративу | Суть | Коли використовувати |
-|-------------|------|---------------------|
-| **Problem-Solution** | "У вас проблема X → наш продукт вирішує" | Product content, case studies |
-| **Transformation** | "Було погано → стало відмінно" | Success stories, before/after |
-| **Competitive Edge** | "Не відставайте від конкурентів" | Comparisons, industry insights |
-| **Time-Saving** | "Зекономте час на рутині" | How-to guides, feature updates |
-| **Growth Story** | "Розкрийте потенціал зростання" | Strategy content, eBooks |
-| **Simplification** | "Складне стає простим" | Tutorials, onboarding |
-| **Personalization** | "Кожен клієнт унікальний" | CRM/CDP контент, best practices |
-| **Security and Trust** | "Захистіть свої дані" | Compliance, trust-building |
+| Narrative Type | Essence | When to Use |
+|---------------|---------|-------------|
+| **Problem-Solution** | "You have problem X → our product solves it" | Product content, case studies |
+| **Transformation** | "It was bad → now it's great" | Success stories, before/after |
+| **Competitive Edge** | "Don't fall behind your competitors" | Comparisons, industry insights |
+| **Time-Saving** | "Save time on routine tasks" | How-to guides, feature updates |
+| **Growth Story** | "Unlock your growth potential" | Strategy content, eBooks |
+| **Simplification** | "Complex made simple" | Tutorials, onboarding |
+| **Personalization** | "Every customer is unique" | CRM/CDP content, best practices |
+| **Security and Trust** | "Protect your data" | Compliance, trust-building |
 
 ---
 
 ## TODO
 
-- [ ] Визначити 3-5 ключових наративів для Stripo (email marketing / email design)
-- [ ] Визначити 3-5 ключових наративів для Yespo (CDP / omnichannel)
-- [ ] Визначити 3-5 ключових наративів для Claspo (pop-ups / conversion)
-- [ ] Додати посилання на повний Narratives description document
+- [ ] Define 3–5 key narratives for Stripo (email marketing / email design)
+- [ ] Define 3–5 key narratives for Yespo (CDP / omnichannel)
+- [ ] Define 3–5 key narratives for Claspo (pop-ups / conversion)
+- [ ] Add link to the full Narratives description document

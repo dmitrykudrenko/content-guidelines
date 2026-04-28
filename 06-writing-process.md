@@ -1,27 +1,27 @@
 # Writing Process
 
-> Статус: `DRAFT` — перенесено з оригінального документа
+> Status: `DRAFT` — transferred from original document
 
-## Підготовка до написання
+## Preparation for Writing
 
 ### 1. Define purpose, audience, and VI level
 
-Визначи мету статті, цільову аудиторію та необхідний рівень Valuable Information (→ [02-valuable-information.md](02-valuable-information.md)). Це одразу задає планку глибини контенту.
+Determine the article's purpose, target audience, and the required Valuable Information level (→ [02-valuable-information.md](02-valuable-information.md)). This immediately sets the depth bar for the content.
 
 ### 2. Conduct research
 
 Gather relevant information from reputable sources: books, scholarly articles, industry reports, credible websites.
 
-**Підкроки дослідження:**
+**Research sub-steps:**
 
-a) **Compile interesting links** — зібрати релевантні джерела з поясненням, чому кожне з них варте уваги.
+a) **Compile interesting links** — gather relevant sources with an explanation of why each one is noteworthy.
 
 b) **Categorize your thesis into three categories:**
-   - **Відомі ідеї** — commonly mentioned, widely recognized
-   - **Цікаві ідеї** — intriguing, pique readers' curiosity
-   - **Унікальні ідеї** — distinctive, те що тільки ми можемо підсвітити
+   - **Known ideas** — commonly mentioned, widely recognized
+   - **Intriguing ideas** — pique readers' curiosity
+   - **Unique ideas** — distinctive, things only we can highlight
 
-Ця категоризація напряму відповідає 3 типам AVI: відомі → Systematization, цікаві → Unique Knowledge, унікальні → Product Mastery.
+This categorization maps directly to the 3 AVI types: known → Systematization, intriguing → Unique Knowledge, unique → Product Mastery.
 
 ### 3. Outline the article
 
@@ -53,16 +53,16 @@ Summarize main points. Restate key takeaways. Leave the reader with a thought-pr
 
 ### 10. Quality check
 
-Перевір за quick-check з [05-content-quality.md](05-content-quality.md): VI рівень, унікальність, актуальність, CTA.
+Run the quick-check from [05-content-quality.md](05-content-quality.md): VI level, uniqueness, relevance, CTA.
 
 ### 11. Proofread, edit, get feedback
 
-Review for grammar, spelling, clarity, coherence, and consistency. Have someone else review — fresh perspective catches blind spots.
+Review for grammar, spelling, clarity, coherence, and consistency. Have someone else review — a fresh perspective catches blind spots.
 
 ---
 
 ## TODO
 
-- [ ] Додати шаблон brief для нової статті
-- [ ] Створити workflow в project management tool для цього процесу
-- [ ] Додати різні процеси для різних рівнів контенту (Note vs Article vs eBook)
+- [ ] Add a brief template for new articles
+- [ ] Create a workflow in a project management tool for this process
+- [ ] Define different processes for different content levels (Note vs Article vs eBook)

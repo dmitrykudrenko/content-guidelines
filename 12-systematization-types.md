@@ -1,55 +1,55 @@
 # Systematization — Types & Characteristics
 
-> Статус: `DRAFT` — перенесено з оригінального документа
+> Status: `DRAFT` — transferred from original document
 
-Systematization (AVI-01) — перший і базовий тип Valuable Information (→ [02-valuable-information.md](02-valuable-information.md)). Це те, як ми організуємо і структуруємо знання для аудиторії.
+Systematization (AVI-01) is the first and foundational type of Valuable Information (→ [02-valuable-information.md](02-valuable-information.md)). It defines how we organize and structure knowledge for the audience.
 
-## Характеристики гарної систематизації
+## Characteristics of Good Systematization
 
-Будь-яка систематизація має відповідати 5 критеріям:
+Any systematization should meet 5 criteria:
 
-1. **Usability** — інформація структурована так, що її легко використати на практиці, без плутанини
-2. **Comprehensive Coverage** — тема покрита з усіх боків; чіткі групи без перетинів, нічого не пропущено
-3. **Balanced** — увага розподілена рівномірно; якщо з 10 категорій 8 елементів потрапляють в одну — систематизація погана
-4. **Clarity** — просто і зрозуміло, без зайвої складності
-5. **Visual Representation** — діаграми, графіки, схеми для пояснення складних ідей; гарна систематизація завжди може бути візуалізована
+1. **Usability** — information is structured so it's easy to apply in practice, no confusion
+2. **Comprehensive Coverage** — the topic is covered from all angles; clear groups without overlaps, nothing is missed
+3. **Balanced** — attention is distributed evenly; if out of 10 categories, 8 items fall into one — the systematization is bad
+4. **Clarity** — simple and clear, without unnecessary complexity
+5. **Visual Representation** — diagrams, graphs, charts to explain complex ideas; good systematization can always be visualized
 
-## 10 типів систематизації
+## 10 Types of Systematization
 
 ### 1. Conceptual
-Defining and categorizing key concepts, tools, and strategies. Creating a shared vocabulary and understanding. *Приклад: фреймворк типів email-кампаній з визначеннями та характеристиками кожного типу.*
+Defining and categorizing key concepts, tools, and strategies. Creating a shared vocabulary and understanding. *Example: a framework of email campaign types with definitions and characteristics of each type.*
 
 ### 2. Process
-Outlining and documenting workflows and processes: campaign management, lead generation, content creation. *Приклад: покроковий workflow створення email-кампанії від brief до аналізу результатів.*
+Outlining and documenting workflows and processes: campaign management, lead generation, content creation. *Example: step-by-step workflow for creating an email campaign from brief to results analysis.*
 
 ### 3. Data
-Organizing customer data, campaign analytics, and market research findings. Enables better segmentation, targeting, personalization. *Приклад: класифікація метрик email-маркетингу за etapами воронки.*
+Organizing customer data, campaign analytics, and market research findings. Enables better segmentation, targeting, personalization. *Example: classification of email marketing metrics by funnel stage.*
 
 ### 4. Thematic
-Grouping content and campaigns based on themes or topics relevant to the target audience. *Приклад: тематична карта контенту по сезонах / подіях / індустріях.*
+Grouping content and campaigns based on themes or topics relevant to the target audience. *Example: thematic content map by season / event / industry.*
 
 ### 5. Methodological
-Organizing methods and techniques: A/B testing, SEO optimization, data analytics. Structured approach to testing, measuring, optimizing. *Приклад: фреймворк для A/B тестування subject lines з критеріями та метриками.*
+Organizing methods and techniques: A/B testing, SEO optimization, data analytics. Structured approach to testing, measuring, optimizing. *Example: a framework for A/B testing subject lines with criteria and metrics.*
 
 ### 6. Historical
-Tracking evolution of strategies, technologies, and consumer behaviors over time. Informs future strategies by understanding past trends. *Приклад: еволюція email-дизайну від text-only до AMP emails.*
+Tracking evolution of strategies, technologies, and consumer behaviors over time. Informs future strategies by understanding past trends. *Example: evolution of email design from text-only to AMP emails.*
 
 ### 7. Functional
-Organizing tools and technologies based on their function within the marketing stack. *Приклад: карта інструментів email-маркетолога за функціями (creation → sending → analytics).*
+Organizing tools and technologies based on their function within the marketing stack. *Example: map of email marketer's tools by function (creation → sending → analytics).*
 
 ### 8. Taxonomic
-Classifying technologies and platforms into categories. Helps select right tools for specific objectives. *Приклад: таксономія ESP-платформ за можливостями, ціновими моделями, розміром бізнесу.*
+Classifying technologies and platforms into categories. Helps select right tools for specific objectives. *Example: taxonomy of ESP platforms by capabilities, pricing models, and business size.*
 
 ### 9. Problem-Solution
-Identifying common challenges and organizing potential solutions. Key in troubleshooting and innovation. *Приклад: "10 проблем з доставлюваністю email — причини та рішення".*
+Identifying common challenges and organizing potential solutions. Key in troubleshooting and innovation. *Example: "10 email deliverability problems — causes and solutions."*
 
 ### 10. Comparative
-Comparing different technologies, strategies, platforms for effectiveness and suitability. Essential for informed decision-making. *Приклад: порівняльна таблиця drag-and-drop email editors за 15 критеріями.*
+Comparing different technologies, strategies, platforms for effectiveness and suitability. Essential for informed decision-making. *Example: comparison table of drag-and-drop email editors across 15 criteria.*
 
 ---
 
 ## TODO
 
-- [ ] Додати реальні приклади статей для кожного типу з блогу
-- [ ] Визначити які типи найбільш актуальні для кожного продукту
-- [ ] Створити матрицю "тип систематизації × формат публікації"
+- [ ] Add real article examples for each type from the blog
+- [ ] Determine which types are most relevant for each product
+- [ ] Create a "systematization type × publication format" matrix

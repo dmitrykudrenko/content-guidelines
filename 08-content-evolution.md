@@ -1,24 +1,24 @@
-# Content Evolution — 5 рівнів
+# Content Evolution — 5 Levels
 
-> Статус: `DRAFT` — перенесено з оригінального документа
+> Status: `DRAFT` — transferred from original document
 
-Від ідеї (note) до комплексного продукту (eBook). Кожен рівень будується на попередньому — це не окремі формати, а стадії розвитку однієї теми.
+From an idea (note) to a comprehensive product (eBook). Each level builds on the previous one — these are not separate formats, but stages of developing a single topic.
 
 ## 01 — Note
 
-Concise content items that capture your thoughts quickly. Each note represents a **complete thought with conclusions** — не сирий чернетковий запис, а оформлена ідея.
+Concise content items that capture your thoughts quickly. Each note represents a **complete thought with conclusions** — not a raw draft, but a formed idea.
 
-**Мета:** initiate communication with your audience, gather feedback, engage in discussions. Notes facilitate self-evaluation of your ideas.
+**Purpose:** Initiate communication with your audience, gather feedback, engage in discussions. Notes facilitate self-evaluation of your ideas.
 
-**Вимоги:** structured thinking — break down problems into smaller fragments.
+**Requirements:** Structured thinking — break down problems into smaller fragments.
 
 ## 02 — Article
 
 A comprehensive representation of our current knowledge on a topic. Combines several notes and other publications into a well-structured, cohesive problem presentation.
 
-**Мета:** дати цілісну картину теми з нашою експертизою.
+**Purpose:** Provide a complete picture of the topic with our expertise.
 
-**Вхідні дані:** ~3–5 notes на одну тему.
+**Input:** ~3–5 notes on one topic.
 
 ## 03 — Scaling
 
@@ -27,25 +27,25 @@ Two directions:
 1. **Rewriting** — adapting the content for different channels: LinkedIn, Facebook, Instagram, webinars, podcasts, whitepapers.
 2. **Improvements** — updating: remove outdated points, add fresh data, keywords, statistics, testimonials, case studies, cross-references to new articles.
 
-**Мета:** maximize reach and keep content alive.
+**Purpose:** Maximize reach and keep content alive.
 
 ## 04 — Product
 
 Structured content supplemented with: our product solution, case studies, internal statistics, feedback, and our unique perspective. Content encompasses problem systematization → solution overview → product implementation.
 
-**Мета:** show how our product solves the problem.
+**Purpose:** Show how our product solves the problem.
 
-**Масштабування:** workshops, courses, public speaking, educational programs.
+**Scaling options:** Workshops, courses, public speaking, educational programs.
 
 ## 05 — eBook
 
 Comprehensive compilation: relevance of the problem, uniqueness of the solution, detailed analyses, validation through own experiences and thought leaders' opinions. Essentially — a condensed Ph.D. dissertation on the topic.
 
-**Мета:** establish definitive authority on the topic.
+**Purpose:** Establish definitive authority on the topic.
 
-**Вимоги:** should be updated on a regular basis.
+**Requirements:** Should be updated on a regular basis.
 
-## Потік створення
+## Creation Flow
 
 ```
 Note (idea, complete thought)
@@ -59,12 +59,12 @@ Product (product-led content)
 eBook (comprehensive compilation)
 ```
 
-**Приклад (Stripo):** 1 eBook = 15 notes + 5 articles + scaling + 4 product-related articles
+**Example (Stripo):** 1 eBook = 15 notes + 5 articles + scaling + 4 product-related articles
 
 ---
 
 ## TODO
 
-- [ ] Додати приклади для кожного рівня з реальних публікацій
-- [ ] Визначити критерії готовності для переходу між рівнями
-- [ ] Додати timeline expectations (скільки часу на кожен рівень)
+- [ ] Add examples for each level from real publications
+- [ ] Define readiness criteria for transitioning between levels
+- [ ] Add timeline expectations (how long each level takes)

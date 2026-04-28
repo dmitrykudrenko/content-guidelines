@@ -1,10 +1,10 @@
 # Role of SEO in Content Strategy
 
-> Статус: `DRAFT` — перенесено з оригінального документа
+> Status: `DRAFT` — transferred from original document
 
 Balancing SEO-driven demands and valuable content in a content strategy can be challenging but crucial for long-term success.
 
-## Принципи балансу SEO та цінного контенту
+## Principles of Balancing SEO and Valuable Content
 
 ### Understand User Intent
 Focus on understanding the intent behind the keywords and phrases users are searching for. Create content that meets their needs and provides value. While it's essential to incorporate relevant keywords for SEO purposes, ensure that the content addresses user queries effectively.
@@ -27,7 +27,7 @@ Once you've created valuable content, promote it through various channels: socia
 ### Measure and Adjust
 Continuously monitor the performance of your content, both from an SEO perspective and in terms of audience engagement. Track metrics: organic traffic, keyword rankings, social shares, time on page. Analyze the data and adjust your content strategy as needed.
 
-## Головна мета
+## The Ultimate Goal
 
 The ultimate goal is to provide value to your audience while also optimizing your content for search engines. By understanding user intent, conducting thorough keyword research, prioritizing user experience, and measuring performance, you can strike the right balance.
 
@@ -35,6 +35,6 @@ The ultimate goal is to provide value to your audience while also optimizing you
 
 ## TODO
 
-- [ ] Додати конкретні SEO-інструменти, які використовуємо
-- [ ] Визначити процес keyword research для кожного продукту
-- [ ] Додати приклади успішного балансу SEO + VI
+- [ ] Add specific SEO tools we use
+- [ ] Define the keyword research process for each product
+- [ ] Add examples of successfully balancing SEO + VI

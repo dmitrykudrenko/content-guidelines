@@ -1,47 +1,47 @@
 # Content Quality
 
-> Статус: `DRAFT` — перенесено з оригінального документа
+> Status: `DRAFT` — transferred from original document
 
-## Головний принцип
+## Core Principle
 
 Our publications are driven by our mission, vision, and values rather than SEO considerations.
 
-Якість контенту визначається наявністю Valuable Information (→ [02-valuable-information.md](02-valuable-information.md)) та відповідністю місії (→ [01-mission-and-vision.md](01-mission-and-vision.md)).
+Content quality is determined by the presence of Valuable Information (→ [02-valuable-information.md](02-valuable-information.md)) and alignment with the mission (→ [01-mission-and-vision.md](01-mission-and-vision.md)).
 
-## Ознаки якісної статті
+## Signs of a Quality Article
 
-- **Relevance** — стаття адресує конкретну проблему або виклик цільової аудиторії
-- **Depth** — глибокий аналіз з actionable insights, а не поверхневий огляд
-- **Valuable Information** — містить щонайменше один тип AVI відповідно до рівня VI для цього типу контенту
-- **Clear structure** — логічний потік, зрозумілі підзаголовки, послідовна аргументація
-- **Accuracy** — перевірені факти, актуальні дані, коректні посилання
-- **Readability** — короткі параграфи, підзаголовки, візуальні елементи де потрібно
-- **Engagement** — запрошує до взаємодії через запитання, коментарі, CTA
+- **Relevance** — the article addresses a specific problem or challenge of the target audience
+- **Depth** — deep analysis with actionable insights, not a surface-level overview
+- **Valuable Information** — contains at least one type of AVI matching the VI level for this content type
+- **Clear structure** — logical flow, clear subheadings, consistent argumentation
+- **Accuracy** — verified facts, up-to-date data, correct references
+- **Readability** — short paragraphs, subheadings, visual elements where needed
+- **Engagement** — invites interaction through questions, comments, CTA
 
-## Ознаки поганої якості статті
+## Signs of a Bad Quality Article
 
-- **Irrelevant content** — інформація, не пов'язана з проблемою, яку продукт вирішує
-- **Outdated content** — теми або дані, які більше не актуальні
-- **Superficiality** — поверхнева інформація без глибини, "could be written by ChatGPT"
-- **Poor structure** — відсутність логічного потоку, складно слідкувати за тезами
-- **Inaccurate information** — фактичні помилки, що вводять в оману
-- **Poor readability** — довгі параграфи, щільний текст, відсутність підзаголовків
-- **No engagement** — не заохочує взаємодію, немає CTA
+- **Irrelevant content** — information unrelated to the problem the product solves
+- **Outdated content** — topics or data that are no longer current
+- **Superficiality** — shallow information without depth, "could be written by ChatGPT"
+- **Poor structure** — no logical flow, hard to follow the main points
+- **Inaccurate information** — factual errors that mislead readers
+- **Poor readability** — long paragraphs, dense text, no subheadings
+- **No engagement** — no interaction encouragement, no CTA
 
-## Quick-check перед публікацією
+## Quick-Check Before Publishing
 
-Перед публікацією запитай себе:
+Before publishing, ask yourself:
 
-1. Чи може ChatGPT написати цей контент без нашого досвіду? → якщо так, контент потребує доопрацювання
-2. Який рівень VI потрібен для цього типу контенту? Чи відповідає стаття?
-3. Чи є в статті щось, що може дати тільки наша команда (дані, досвід, кейси)?
-4. Чи актуальна вся інформація на момент публікації?
-5. Чи є чіткий CTA для читача?
+1. Can ChatGPT write this content without our experience? → if yes, the content needs more work
+2. What VI level is required for this content type? Does the article meet it?
+3. Does the article contain something only our team can provide (data, experience, cases)?
+4. Is all information current as of the publication date?
+5. Is there a clear CTA for the reader?
 
 ---
 
 ## TODO
 
-- [ ] Розширити quick-check до повного чеклісту рев'ю
-- [ ] Додати приклади "до і після" покращення якості
-- [ ] Визначити хто відповідає за quality gate на кожному етапі
+- [ ] Expand quick-check into a full review checklist
+- [ ] Add "before and after" quality improvement examples
+- [ ] Define who is responsible for the quality gate at each stage

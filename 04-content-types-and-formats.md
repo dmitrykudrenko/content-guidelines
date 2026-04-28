@@ -1,10 +1,10 @@
 # Content Types & Formats
 
-> Статус: `DRAFT` — перенесено з оригінального документа
+> Status: `DRAFT` — transferred from original document
 
-Not every article needs Additional Valuable Information to the same degree. Рівні VI (0-3) визначають, скільки цінної інформації має містити контент (→ пояснення рівнів: [02-valuable-information.md](02-valuable-information.md)).
+Not every article needs Additional Valuable Information to the same degree. VI levels (0–3) define how much valuable information a piece of content should contain (→ level definitions: [02-valuable-information.md](02-valuable-information.md)).
 
-## Типи контенту за департаментами
+## Content Types by Department
 
 | Department | Type | Objective | VI Level | Comments |
 |------------|------|-----------|----------|----------|
@@ -16,48 +16,48 @@ Not every article needs Additional Valuable Information to the same degree. Рі
 | PPC/Sales | Landings | Sign ups, new subscriptions | 0–1 | Not in our content plan |
 | PR/Brand | Big Idea | Viral, mentions, conferences | 1–3 | All eBook framework stages |
 
-## 24 формати публікацій
+## 24 Publication Formats
 
-**Content-driven (глибокий контент):**
-1. **Industry Insights and Trends** — тренди індустрії, нові технології
-2. **Thought Leadership Articles** — роздуми про ширші теми індустрії
-3. **Research and Whitepapers** — глибокі дослідження, оригінальний аналіз
-4. **Strategy & Reports** — включаючи ready-to-publish eBooks
+**Content-driven (deep content):**
+1. **Industry Insights and Trends** — industry trends, emerging technologies
+2. **Thought Leadership Articles** — broader industry topics, positioning as authority
+3. **Research and Whitepapers** — deep dives, original analysis
+4. **Strategy & Reports** — including ready-to-publish eBooks
 
-**Product-driven (продуктовий контент):**
-5. **Product Updates** — нові релізи, фічі, покращення
-6. **How-to Guides and Tutorials** — покрокові інструкції
-7. **Tips and Best Practices** — практичні поради
-8. **FAQ and Troubleshooting** — відповіді на поширені питання
-9. **Product Comparisons and Buying Guides** — порівняння з конкурентами
+**Product-driven (product content):**
+5. **Product Updates** — new releases, features, enhancements
+6. **How-to Guides and Tutorials** — step-by-step instructions
+7. **Tips and Best Practices** — practical advice
+8. **FAQ and Troubleshooting** — answers to common questions
+9. **Product Comparisons and Buying Guides** — comparisons with competitors
 
-**Story-driven (історії та люди):**
-10. **Case Studies and Success Stories** — історії успіху клієнтів
-11. **Opinion Leader Interviews** — інтерв'ю з експертами
-12. **Customer Feedback and Reviews** — відгуки клієнтів
-13. **Behind-the-Scenes** — погляд всередину компанії
-14. **Guest Posts** — контент від зовнішніх контрибуторів
+**Story-driven (stories and people):**
+10. **Case Studies and Success Stories** — customer success stories
+11. **Opinion Leader Interviews** — interviews with industry experts
+12. **Customer Feedback and Reviews** — customer testimonials
+13. **Behind-the-Scenes** — inside look at the company
+14. **Guest Posts** — content from external contributors
 
 **Media & engagement:**
-15. **Webinars and Video Content** — мультимедійні презентації
-16. **Podcasts** — аудіоконтент про тренди, інтерв'ю
-17. **Infographics** — візуалізація даних і процесів
-18. **Interactive Content** — квізи, опитування, інтерактивна графіка
-19. **Event Recaps** — огляди подій, конференцій
+15. **Webinars and Video Content** — multimedia presentations
+16. **Podcasts** — audio content on trends, interviews
+17. **Infographics** — data and process visualization
+18. **Interactive Content** — quizzes, polls, interactive graphics
+19. **Event Recaps** — event, conference, and workshop summaries
 
-**Utility-driven (інструменти):**
-20. **Inspiration** — готові шаблони, колекції, event-related матеріали
-21. **Checklists** — інструменти для виконання конкретних завдань
-22. **Myth Busters** — розвінчування поширених міфів
-23. **Editorials** — opinion pieces на тему проблем індустрії
-24. **General Content** — glossary та інше
+**Utility-driven (tools):**
+20. **Inspiration** — ready-to-use templates, collections, event-related materials
+21. **Checklists** — tools for handling specific tasks
+22. **Myth Busters** — debunking common myths
+23. **Editorials** — opinion pieces on industry issues
+24. **General Content** — glossary and other
 
-→ Баланс між типами контенту та funnel: [07-creation-principles.md](07-creation-principles.md) (Principle of Balance)
+→ Balance between content types and funnel: [07-creation-principles.md](07-creation-principles.md) (Principle of Balance)
 
 ---
 
 ## TODO
 
-- [ ] Визначити пріоритетні формати для кожного продукту
-- [ ] Додати приклади існуючих статей для кожного формату
-- [ ] Зв'язати формати з рівнями VI (який формат потребує якого рівня)
+- [ ] Define priority formats for each product
+- [ ] Add examples of existing articles for each format
+- [ ] Map formats to VI levels (which format requires which level)
