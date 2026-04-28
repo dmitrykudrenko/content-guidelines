@@ -2,55 +2,69 @@
 
 > Статус: `DRAFT` — перенесено з оригінального документа
 
-Від ідеї (note) до комплексного продукту (eBook/dissertation).
+Від ідеї (note) до комплексного продукту (eBook). Кожен рівень будується на попередньому — це не окремі формати, а стадії розвитку однієї теми.
 
 ## 01 — Note
 
-Notes are concise content items that capture your thoughts quickly. They reflect your immediate ideas on a subject, shared promptly. Writing effective notes necessitates structured thinking, breaking down problems into smaller fragments to address them individually.
+Concise content items that capture your thoughts quickly. Each note represents a **complete thought with conclusions** — не сирий чернетковий запис, а оформлена ідея.
 
-Each note represents a complete thought with conclusions. By sharing notes, you initiate communication with your audience, gather feedback on your ideas or problems, and strive to engage them in discussions. Notes facilitate self-evaluation of your ideas.
+**Мета:** initiate communication with your audience, gather feedback, engage in discussions. Notes facilitate self-evaluation of your ideas.
+
+**Вимоги:** structured thinking — break down problems into smaller fragments.
 
 ## 02 — Article
 
-An article is a comprehensive representation of our current knowledge on a topic. It combines our notes and other publications into a well-structured and cohesive problem presentation. It can be updated during the next stage to incorporate new information and insights.
+A comprehensive representation of our current knowledge on a topic. Combines several notes and other publications into a well-structured, cohesive problem presentation.
+
+**Мета:** дати цілісну картину теми з нашою експертизою.
+
+**Вхідні дані:** ~3–5 notes на одну тему.
 
 ## 03 — Scaling
 
-Scaling can be achieved through two options:
+Two directions:
 
-1. **Rewriting** — adapting the content for different channels: LinkedIn, Facebook, Instagram, webinars, podcasts, whitepapers and more.
-2. **Improvements** — continuously updating information by removing outdated points and adding fresh ones. This includes incorporating relevant keywords, statistics, testimonials, case studies, questionnaires, votes, etc., and cross-referencing links to new articles.
+1. **Rewriting** — adapting the content for different channels: LinkedIn, Facebook, Instagram, webinars, podcasts, whitepapers.
+2. **Improvements** — updating: remove outdated points, add fresh data, keywords, statistics, testimonials, case studies, cross-references to new articles.
+
+**Мета:** maximize reach and keep content alive.
 
 ## 04 — Product
 
-Our overall structured content is supplemented with our product solution, our case studies, our internal statistics, feedback, and our unique perspective on problem-solving approaches. Content should encompass problem systematization and solution overviews, leading to product implementation.
+Structured content supplemented with: our product solution, case studies, internal statistics, feedback, and our unique perspective. Content encompasses problem systematization → solution overview → product implementation.
 
-It can be scaled into workshops, courses, public speaking, and other educational programs.
+**Мета:** show how our product solves the problem.
+
+**Масштабування:** workshops, courses, public speaking, educational programs.
 
 ## 05 — eBook
 
-An eBook is a comprehensive compilation of materials on a particular subject. It includes the relevance of the problem, the uniqueness of the solution, detailed analyses, and the validation through your own experiences and the opinions of thought leaders. It is designed in a PDF format, making it easily accessible and portable for readers. In essence, an eBook can be likened to a condensed version of a Ph.D. dissertation.
+Comprehensive compilation: relevance of the problem, uniqueness of the solution, detailed analyses, validation through own experiences and thought leaders' opinions. Essentially — a condensed Ph.D. dissertation on the topic.
 
-When we have an eBook, it should be updated on a regular basis.
+**Мета:** establish definitive authority on the topic.
 
-## Візуалізація потоку
+**Вимоги:** should be updated on a regular basis.
+
+## Потік створення
 
 ```
-Note (idea)
-  ↓ accumulate 3-5 notes
+Note (idea, complete thought)
+  ↓ accumulate 3-5 notes on one topic
 Article (structured knowledge)
-  ↓ adapt to channels
+  ↓ adapt to channels + update
 Scaling (multi-channel presence)
-  ↓ add product context
+  ↓ add product context, case studies, stats
 Product (product-led content)
-  ↓ compile & validate
+  ↓ compile, validate with experts
 eBook (comprehensive compilation)
 ```
+
+**Приклад (Stripo):** 1 eBook = 15 notes + 5 articles + scaling + 4 product-related articles
 
 ---
 
 ## TODO
 
 - [ ] Додати приклади для кожного рівня з реальних публікацій
-- [ ] Визначити критерії переходу між рівнями
+- [ ] Визначити критерії готовності для переходу між рівнями
 - [ ] Додати timeline expectations (скільки часу на кожен рівень)

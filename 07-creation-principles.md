@@ -2,35 +2,43 @@
 
 > Статус: `DRAFT` — перенесено з оригінального документа
 
-## Principle of Publishing
+## 1. Principle of Publishing
 
-We adhere to the principle of not keeping content unpublished. Once we create content, we strive to publish it promptly and make it accessible to our intended audience. This ensures that our content can serve its purpose of providing value, information, or entertainment to those who can benefit from it.
+We adhere to the principle of not keeping content unpublished. Once we create content, we strive to publish it promptly and make it accessible to our intended audience.
 
-## The Principle of Following the Company Vision
+Суть: краще опублікувати і зібрати фідбек, ніж довести до ідеалу і ніколи не випустити.
 
-Content strategy must follow the Company's Vision. It doesn't matter whether we have the feature or not. The brand's values and brand's mission have to be defined and described into several key messages (Narratives). The content has to be consistent across all channels based on these narratives.
+## 2. Principle of Following the Company Vision
 
-## Development and Collaboration Principle
+Content strategy must follow the Company's Vision — regardless of whether we already have the feature or not. The brand's values and mission have to be defined and described as key messages — Narratives (→ [03-narratives.md](03-narratives.md)). Content must be consistent across all channels based on these narratives.
 
-It is crucial to involve specialists of various levels and disciplines at different stages of content creation. They should interact and have a basic understanding of each other's expertise. It is important to build a team that accumulates expertise, expands perspectives, and does not rely solely on one "super expert."
+## 3. Development and Collaboration Principle
 
-## Principle of Evolution
+Involve specialists of various levels and disciplines at different stages of content creation. They should interact and have a basic understanding of each other's expertise. Build a team that accumulates expertise, expands perspectives, and does not rely solely on one "super expert."
 
-Контент розвивається від ідеї до комплексного продукту через 5 рівнів:
+→ Ролі та відповідальності: [09-team-and-roles.md](09-team-and-roles.md)
+
+## 4. Principle of Evolution
+
+Content evolves from an idea to a comprehensive product through 5 levels:
 
 **Note → Article → Scaling → Product → eBook**
 
-→ Детальніше: [08-content-evolution.md](08-content-evolution.md)
+→ Детальний опис кожного рівня: [08-content-evolution.md](08-content-evolution.md)
 
-## Principle of Balance
+## 5. Principle of Balance
 
-Content should be balanced across different aspects and audiences, including types of content, audiences, the sales funnel, and goals.
+Content should be balanced across types, audiences, sales funnel stages, and goals.
 
-**Ідеальний баланс для funnel (top to bottom):** 50 / 30 / 20
+**Ідеальний баланс для funnel (TOFU / MOFU / BOFU):** 50 / 30 / 20
 
-> Поточний стан: 77 / 14 / 9
+> Зафіксований стан на момент створення документа: 77 / 14 / 9
 
-We still can and should create TOFU content if this is a viral, actual or hype topic.
+Дисбаланс означає, що ми занадто зосереджені на верхній частині воронки. Потрібно більше MOFU та BOFU контенту.
+
+Виняток: TOFU контент все ще варто створювати, якщо тема viral, актуальна або hype.
+
+→ Типи контенту та їх розподіл: [04-content-types-and-formats.md](04-content-types-and-formats.md)
 
 ---
 
@@ -38,4 +46,4 @@ We still can and should create TOFU content if this is a viral, actual or hype t
 
 - [ ] Оновити поточні цифри балансу funnel
 - [ ] Визначити конкретні дії для наближення до ідеального балансу
-- [ ] Додати principle of consistency across channels
+- [ ] Розписати баланс окремо для Stripo / Yespo / Claspo

@@ -1,53 +1,55 @@
-# Types of Systematization
+# Systematization — Types & Characteristics
 
 > Статус: `DRAFT` — перенесено з оригінального документа
 
-10 типів систематизації, які можна використовувати в контенті.
+Systematization (AVI-01) — перший і базовий тип Valuable Information (→ [02-valuable-information.md](02-valuable-information.md)). Це те, як ми організуємо і структуруємо знання для аудиторії.
 
-## 1. Conceptual
+## Характеристики гарної систематизації
 
-Involves defining and categorizing key marketing concepts, tools, and strategies. Helps in creating a shared vocabulary and understanding among team members and stakeholders about digital marketing frameworks, customer journey mapping, and the roles of different technologies in marketing.
+Будь-яка систематизація має відповідати 5 критеріям:
 
-## 2. Process
+1. **Usability** — інформація структурована так, що її легко використати на практиці, без плутанини
+2. **Comprehensive Coverage** — тема покрита з усіх боків; чіткі групи без перетинів, нічого не пропущено
+3. **Balanced** — увага розподілена рівномірно; якщо з 10 категорій 8 елементів потрапляють в одну — систематизація погана
+4. **Clarity** — просто і зрозуміло, без зайвої складності
+5. **Visual Representation** — діаграми, графіки, схеми для пояснення складних ідей; гарна систематизація завжди може бути візуалізована
 
-Focuses on outlining and documenting marketing workflows and processes: campaign management, lead generation, content creation workflows. Ensures consistency, efficiency, and quality in operations.
+## 10 типів систематизації
 
-## 3. Data
+### 1. Conceptual
+Defining and categorizing key concepts, tools, and strategies. Creating a shared vocabulary and understanding. *Приклад: фреймворк типів email-кампаній з визначеннями та характеристиками кожного типу.*
 
-Organizes customer data, campaign analytics, and market research findings. Allows for better segmentation, targeting, and personalization strategies, making data-driven decisions more streamlined and effective.
+### 2. Process
+Outlining and documenting workflows and processes: campaign management, lead generation, content creation. *Приклад: покроковий workflow створення email-кампанії від brief до аналізу результатів.*
 
-## 4. Thematic
+### 3. Data
+Organizing customer data, campaign analytics, and market research findings. Enables better segmentation, targeting, personalization. *Приклад: класифікація метрик email-маркетингу за etapами воронки.*
 
-Groups content and campaigns based on themes or topics relevant to the target audience. Particularly useful in content marketing and social media strategies, helping ensure messaging is consistent and resonates across different channels.
+### 4. Thematic
+Grouping content and campaigns based on themes or topics relevant to the target audience. *Приклад: тематична карта контенту по сезонах / подіях / індустріях.*
 
-## 5. Methodological
+### 5. Methodological
+Organizing methods and techniques: A/B testing, SEO optimization, data analytics. Structured approach to testing, measuring, optimizing. *Приклад: фреймворк для A/B тестування subject lines з критеріями та метриками.*
 
-Involves organizing the methods and techniques used in marketing analysis: A/B testing, SEO optimization, data analytics methods. Ensures structured approach to testing, measuring, and optimizing campaigns.
+### 6. Historical
+Tracking evolution of strategies, technologies, and consumer behaviors over time. Informs future strategies by understanding past trends. *Приклад: еволюція email-дизайну від text-only до AMP emails.*
 
-## 6. Historical
+### 7. Functional
+Organizing tools and technologies based on their function within the marketing stack. *Приклад: карта інструментів email-маркетолога за функціями (creation → sending → analytics).*
 
-Tracks the evolution of marketing strategies, technologies, and consumer behaviors over time. Informs future strategies by understanding past trends, successes, and failures, enabling marketers to anticipate market shifts.
+### 8. Taxonomic
+Classifying technologies and platforms into categories. Helps select right tools for specific objectives. *Приклад: таксономія ESP-платформ за можливостями, ціновими моделями, розміром бізнесу.*
 
-## 7. Functional
+### 9. Problem-Solution
+Identifying common challenges and organizing potential solutions. Key in troubleshooting and innovation. *Приклад: "10 проблем з доставлюваністю email — причини та рішення".*
 
-Organizes marketing tools and technologies based on their function within the marketing stack: email marketing platforms, CRM systems, analytics tools. Helps create an integrated technology ecosystem.
-
-## 8. Taxonomic
-
-Classifies marketing technologies and platforms into categories: content management systems, advertising networks, social media platforms. Helps select the right tools for specific objectives and ensures the marketing tech stack is comprehensive.
-
-## 9. Problem-Solution
-
-Identifies common marketing challenges and organizes potential solutions, including technological tools, strategies, and best practices. Key in troubleshooting and innovation, ensuring teams can quickly address issues.
-
-## 10. Comparative
-
-Compares different marketing technologies, strategies, and platforms to determine their effectiveness and suitability for specific goals. Essential for making informed decisions about technology investments and strategy adjustments.
+### 10. Comparative
+Comparing different technologies, strategies, platforms for effectiveness and suitability. Essential for informed decision-making. *Приклад: порівняльна таблиця drag-and-drop email editors за 15 критеріями.*
 
 ---
 
 ## TODO
 
-- [ ] Додати по 1-2 приклади статей для кожного типу з блогу
+- [ ] Додати реальні приклади статей для кожного типу з блогу
 - [ ] Визначити які типи найбільш актуальні для кожного продукту
 - [ ] Створити матрицю "тип систематизації × формат публікації"

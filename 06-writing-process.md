@@ -4,52 +4,65 @@
 
 ## Підготовка до написання
 
-### 1. Define your purpose and audience
-Clearly understand the article's purpose and identify your target audience. Determine what you want to achieve with the article and who you want to reach.
+### 1. Define purpose, audience, and VI level
+
+Визначи мету статті, цільову аудиторію та необхідний рівень Valuable Information (→ [02-valuable-information.md](02-valuable-information.md)). Це одразу задає планку глибини контенту.
 
 ### 2. Conduct research
-Gather relevant information on the topic. Use reputable sources: books, scholarly articles, industry reports, credible websites.
+
+Gather relevant information from reputable sources: books, scholarly articles, industry reports, credible websites.
 
 **Підкроки дослідження:**
 
-a) **Compile a list of the most interesting links** — gather captivating links related to your topic. Provide a concise, high-level description of why each article is special or noteworthy.
+a) **Compile interesting links** — зібрати релевантні джерела з поясненням, чому кожне з них варте уваги.
 
 b) **Categorize your thesis into three categories:**
-   - Category 1: ideas that are commonly mentioned or widely recognized
-   - Category 2: intriguing ideas that pique readers' curiosity
-   - Category 3: unique and distinctive ideas you can emphasize or highlight
+   - **Відомі ідеї** — commonly mentioned, widely recognized
+   - **Цікаві ідеї** — intriguing, pique readers' curiosity
+   - **Унікальні ідеї** — distinctive, те що тільки ми можемо підсвітити
+
+Ця категоризація напряму відповідає 3 типам AVI: відомі → Systematization, цікаві → Unique Knowledge, унікальні → Product Mastery.
 
 ### 3. Outline the article
-Create an outline to organize thoughts and structure the article. Outline main sections/headings and key points. This maintains logical flow and ensures all important aspects are included.
+
+Create an outline: main sections, headings, key points under each. This maintains logical flow and ensures nothing important is missed.
 
 ### 4. Craft a compelling introduction
-Start with an introduction that grabs the reader's attention. Clearly state the article's purpose and provide a brief overview of what will be covered.
+
+Grab the reader's attention. State the article's purpose and provide a brief overview of what will be covered.
 
 ### 5. Develop key points
-Expand on each point identified in your outline. Provide relevant details, examples, statistics, or anecdotes to support arguments. Ensure logical progression from one point to another.
+
+Expand on each point from your outline. Provide details, examples, statistics, or anecdotes. Ensure logical progression from one point to another.
 
 ### 6. Use clear and concise language
-Write in a clear, concise, and straightforward manner. Avoid jargon or technical terms that might confuse the reader. Use short sentences and paragraphs.
+
+Avoid jargon or unnecessary technical terms. Use short sentences and paragraphs.
 
 ### 7. Provide supporting evidence
-Back up statements with credible sources, data, or expert opinions. This establishes credibility and strengthens validity.
+
+Back up statements with credible sources, data, or expert opinions.
 
 ### 8. Include relevant visuals
-Add images, graphs, or charts to enhance understanding and engagement. Visuals make complex information easier to comprehend.
+
+Add images, graphs, or charts where they enhance understanding. Visuals make complex information easier to comprehend.
 
 ### 9. Craft a compelling conclusion
-Summarize main points and provide a concise conclusion. Restate key takeaways and leave the reader with a thought-provoking or actionable ending.
 
-### 10. Proofread and edit
-Review for grammar, spelling, punctuation, and clarity. Edit for coherence, flow, and overall quality. Check for consistency in style, tone, and formatting.
+Summarize main points. Restate key takeaways. Leave the reader with a thought-provoking or actionable ending.
 
-### 11. Seek feedback
-Have someone else review the article. They can offer a fresh perspective, identify areas for improvement, and ensure the article effectively meets its purpose.
+### 10. Quality check
+
+Перевір за quick-check з [05-content-quality.md](05-content-quality.md): VI рівень, унікальність, актуальність, CTA.
+
+### 11. Proofread, edit, get feedback
+
+Review for grammar, spelling, clarity, coherence, and consistency. Have someone else review — fresh perspective catches blind spots.
 
 ---
 
 ## TODO
 
 - [ ] Додати шаблон brief для нової статті
-- [ ] Створити workflow в Notion/Asana/Linear для цього процесу
-- [ ] Додати етап перевірки на наявність AVI (valuable information)
+- [ ] Створити workflow в project management tool для цього процесу
+- [ ] Додати різні процеси для різних рівнів контенту (Note vs Article vs eBook)
