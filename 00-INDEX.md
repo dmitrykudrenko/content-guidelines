@@ -21,6 +21,9 @@ WHO and with what purpose?
   
 REFERENCE
   12 Systematization Types
+
+APPENDICES — templates, examples, artifacts
+  A1 Content Maturity Map
 ```
 
 ## Files
@@ -39,6 +42,12 @@ REFERENCE
 | 10 | [SEO Strategy](10-seo-strategy.md) | Role of SEO, balancing SEO vs value |
 | 11 | [Content Goals](11-content-goals.md) | 8 metrics (need to be filled in) |
 | 12 | [Systematization Types](12-systematization-types.md) | 5 characteristics + 10 types of systematization |
+
+### Appendices
+
+| # | File | What's inside |
+|---|------|--------------|
+| A1 | [Content Maturity Map](A1-content-maturity-map.md) | Template + example: topic roadmap from Note to eBook with enrichment tracking |
 
 ## How to Work with These Files
 
