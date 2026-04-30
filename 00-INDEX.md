@@ -24,6 +24,12 @@ REFERENCE
 
 APPENDICES — templates, examples, artifacts
   A1 Content Maturity Map
+  A2 Article Brief Template
+  A3 Quality Review Checklist
+  A4 Format × VI Level Matrix
+  A5 Scaling Playbook
+  A6 RACI Matrix
+  A7 Good vs. Bad Content Examples
 ```
 
 ## Files
@@ -47,7 +53,13 @@ APPENDICES — templates, examples, artifacts
 
 | # | File | What's inside |
 |---|------|--------------|
-| A1 | [Content Maturity Map](A1-content-maturity-map.md) | Template + example: topic roadmap from Note to eBook with enrichment tracking |
+| A1 | [Content Maturity Map](A1-content-maturity-map.md) | Topic roadmap from Note to eBook with enrichment tracking |
+| A2 | [Article Brief Template](A2-article-brief-template.md) | Blank template + filled example for planning an article |
+| A3 | [Quality Review Checklist](A3-quality-review-checklist.md) | Full pre-publication checklist + before/after examples |
+| A4 | [Format × VI Level Matrix](A4-format-vi-matrix.md) | 24 formats mapped to VI levels, AVI types, and funnel stages |
+| A5 | [Scaling Playbook](A5-scaling-playbook.md) | Channel adaptation map, checklist, and transformation example |
+| A6 | [RACI Matrix](A6-raci-matrix.md) | Roles × evolution stages + roles × processes + workflow diagrams |
+| A7 | [Good vs. Bad Content](A7-good-vs-bad-content.md) | Side-by-side examples for each AVI type + self-diagnostic |
 
 ## How to Work with These Files
 
