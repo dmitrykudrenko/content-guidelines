@@ -1,0 +1,7 @@
+interface:
+  display_name: "Content Guidelines"
+  short_description: "Content strategy and quality review guide"
+  default_prompt: "Use $content-guidelines to review this draft against the content strategy and quality guidelines."
+
+policy:
+  allow_implicit_invocation: true
