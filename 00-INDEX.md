@@ -30,6 +30,7 @@ APPENDICES — templates, examples, artifacts
   A5 Scaling Playbook
   A6 RACI Matrix
   A7 Good vs. Bad Content Examples
+  A8 AI Content Labeling Rules
 ```
 
 ## Files
@@ -60,6 +61,7 @@ APPENDICES — templates, examples, artifacts
 | A5 | [Scaling Playbook](A5-scaling-playbook.md) | Channel adaptation map, checklist, and transformation example |
 | A6 | [RACI Matrix](A6-raci-matrix.md) | Roles × evolution stages + roles × processes + workflow diagrams |
 | A7 | [Good vs. Bad Content](A7-good-vs-bad-content.md) | Side-by-side examples for each AVI type + self-diagnostic |
+| A8 | [AI Content Labeling Rules](A8-ai-content-labeling.md) | When AI content needs a disclosure, by class and by channel |
 
 ## How to Work with These Files
 
